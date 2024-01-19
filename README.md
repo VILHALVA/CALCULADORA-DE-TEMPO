@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://pt.seaicons.com/wp-content/uploads/2015/11/clock-icon.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 Esse é um aplicativo web simples chamado "Conversor de Tempo". Ele consiste em uma página HTML com um formulário onde o usuário pode inserir um valor de tempo em segundos. Quando o botão "Converter Tempo" é clicado, a função JavaScript `converterTempo()` é acionada. Esta função realiza cálculos para converter o tempo inserido em segundos para minutos, horas, dias, semanas, meses e anos, usando algumas aproximações.
