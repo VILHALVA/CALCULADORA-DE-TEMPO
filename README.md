@@ -1,10 +1,7 @@
 # CALCULADORA DE TEMPO
 🆎CONVERTE SEGUNDOS EM MINUTOS, HORAS, DIAS, SEMANAS, MESES E ANOS. 
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="300"> <br>
+<img src="FOTO.png" align="center" width="600"> <br>
 
 ## DESCRIÇÃO:
 Esse é um aplicativo web simples chamado "Conversor de Tempo". Ele consiste em uma página HTML com um formulário onde o usuário pode inserir um valor de tempo em segundos. Quando o botão "Converter Tempo" é clicado, a função JavaScript `converterTempo()` é acionada. Esta função realiza cálculos para converter o tempo inserido em segundos para minutos, horas, dias, semanas, meses e anos, usando algumas aproximações.
@@ -24,4 +21,31 @@ Aqui está uma descrição do que o código faz:
 3. **Aproximações utilizadas:**
    - O código usa aproximações para converter tempo em meses e anos, assumindo que um mês tem 30 dias e um ano tem 365 dias.
 
-Em resumo, o aplicativo permite que o usuário insira um valor de tempo em segundos e, ao clicar no botão, obtenha a equivalência desse tempo em diferentes unidades, como minutos, horas, dias, semanas, meses e anos, com base em algumas simplificações.
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/CALCULADORA-DE-TEMPO.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd CALCULADORA-DE-TEMPO
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip CALCULADORA-DE-TEMPO.zip
+```
+* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
