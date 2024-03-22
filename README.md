@@ -21,31 +21,11 @@ Aqui está uma descrição do que o código faz:
 3. **Aproximações utilizadas:**
    - O código usa aproximações para converter tempo em meses e anos, assumindo que um mês tem 30 dias e um ano tem 365 dias.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CALCULADORA-DE-TEMPO.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CALCULADORA-DE-TEMPO
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CALCULADORA-DE-TEMPO.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
